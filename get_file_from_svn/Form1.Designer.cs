@@ -73,7 +73,7 @@
             this.Controls.Add(this.txtFile);
             this.Controls.Add(this.txtSvn);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "过滤SVN信息";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -53,6 +53,8 @@ namespace get_file_from_svn
                 }
             }
 
+            files.Sort();
+
             txtFile.Text = string.Concat(files);
         }
 
